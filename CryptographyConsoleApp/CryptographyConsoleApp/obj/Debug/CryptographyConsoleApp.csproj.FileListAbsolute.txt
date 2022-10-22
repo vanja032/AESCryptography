@@ -1,0 +1,7 @@
+C:\Users\Vanja Sretenovic\source\repos\CryptographyConsoleApp\CryptographyConsoleApp\bin\Debug\CryptographyConsoleApp.exe.config
+C:\Users\Vanja Sretenovic\source\repos\CryptographyConsoleApp\CryptographyConsoleApp\bin\Debug\CryptographyConsoleApp.exe
+C:\Users\Vanja Sretenovic\source\repos\CryptographyConsoleApp\CryptographyConsoleApp\bin\Debug\CryptographyConsoleApp.pdb
+C:\Users\Vanja Sretenovic\source\repos\CryptographyConsoleApp\CryptographyConsoleApp\obj\Debug\CryptographyConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Vanja Sretenovic\source\repos\CryptographyConsoleApp\CryptographyConsoleApp\obj\Debug\CryptographyConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Vanja Sretenovic\source\repos\CryptographyConsoleApp\CryptographyConsoleApp\obj\Debug\CryptographyConsoleApp.exe
+C:\Users\Vanja Sretenovic\source\repos\CryptographyConsoleApp\CryptographyConsoleApp\obj\Debug\CryptographyConsoleApp.pdb
